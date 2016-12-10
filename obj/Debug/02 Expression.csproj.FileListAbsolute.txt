@@ -1,0 +1,6 @@
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\02 Expression\02 Expression\bin\Debug\02 Expression.exe.config
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\02 Expression\02 Expression\bin\Debug\02 Expression.exe
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\02 Expression\02 Expression\bin\Debug\02 Expression.pdb
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\02 Expression\02 Expression\obj\Debug\02 Expression.csprojResolveAssemblyReference.cache
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\02 Expression\02 Expression\obj\Debug\02 Expression.exe
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\02 Expression\02 Expression\obj\Debug\02 Expression.pdb
